@@ -1,0 +1,1 @@
+* * * * * DISPLAY=:0 && firefox <ZOOM LINK> && sleep 15s && /bin/sh /home/username/zoom-automation/automate.sh
